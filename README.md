@@ -8,13 +8,3 @@ def HelloWorld(name):
     
 HelloWorld('Abdallah')
 ```
-I am skilled in various coding languages such as:
-- Python
-- Java
-- Javascript
-- C
-- React
-- HTML & CSS
-<br/>
-and various frameworks such as AWS, Serverless, Django, and Nodejs. I am also knowledgable about data structures
-and different programming paradigms such as Object Oriented Programming and Lower Level Programming. 
